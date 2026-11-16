@@ -10,7 +10,7 @@ Open `index.html` in a browser. No build step or dependencies are required.
 
 - Replace `Your Name`, `Your City`, the education and experience prompts, and the placeholder email in `index.html`.
 - Replace the portrait placeholder with a professional photo you choose.
-- Update the `your-username` project links in `index.html` after the repositories are available.
+- The three project links point to their repositories in the `HarshJod9` GitHub account.
 - Edit project descriptions and skills to match your own work.
 
 The template deliberately uses editable placeholders instead of inventing personal background details. Project-filter buttons and the mobile navigation are interactive.
